@@ -1,0 +1,6 @@
+apiVersion: networkpolicyGenerator.io/v1
+kind: netpolgenerator
+metadata:
+  name: netpol-generator
+data:
+  jsonPath: "data.json"
